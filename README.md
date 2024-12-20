@@ -28,8 +28,8 @@ CoinFlip is a simple Android app that simulates flipping a coin. Press the butto
 ## To do
 
 - [ ] Add coin icon.
-- [ ] Add dice rolling feature.
-- [ ] Add random number generator within a user-defined range.
+- [x] Add magic ball.
+- [x] Add random number generator within a user-defined range.
 
 ## License
 
