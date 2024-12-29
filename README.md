@@ -16,7 +16,7 @@ CoinFlip is a simple Android app that simulates flipping a coin. Press the butto
 - Light and dark theme support.
 
 ## Screenshots
-![Ui](/Screenshots/UI-1.jpg)
+![Ui](/ScreenShots/Ui-1.jpg)
 
 ## Technologies Used
 
