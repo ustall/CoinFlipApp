@@ -1,6 +1,6 @@
 # CoinFlip - Android App
 ## Overview
-CoinFlip is a simple yet fun Android app that simulates flipping a coin, generating random results of "Yes" or "No". It features smooth text animations and supports both light and dark themes for a better user experience. Whether you're making a quick decision or having fun with predictions, CoinFlip adds a playful touch to your day!
+CoinFlip is a simple yet fun Android app that simulates flipping a coin, generating random results of "Yes" or "No". It also includes a Magic Ball feature that provides random predictions and a Random Number Generator that allows you to generate numbers within a user-defined range. The app supports both English and Russian localization, making it accessible to a wider audience. With smooth text animations and support for both light and dark themes, CoinFlip enhances your decision-making process and adds a playful touch to your day! Whether you're looking for quick answers, predictions, or just want to have fun with random numbers, CoinFlip has you covered.
 ## Table of Contents
 - [Features](#features)
 - [Usage](#usage)
