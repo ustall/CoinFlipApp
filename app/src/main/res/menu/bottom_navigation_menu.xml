@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_random_number"
+        android:icon="@drawable/ic_baseline_chance_24"
+        android:title="@string/random" />
+    <item
+        android:id="@+id/nav_coin_flip"
+        android:icon="@drawable/baseline_auto_mode_24"
+        android:title="@string/coin" />
+    <item
+        android:id="@+id/nav_magic_ball"
+        android:icon="@drawable/baseline_magic_ball_24"
+        android:title="@string/magic_ball" />
+</menu>

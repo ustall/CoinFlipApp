@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name" translatable="false">CoinFlip</string>
+    <string name="flip_coin">Flip Coin</string>
+    <string name="resultTextDefalut">Press the button</string>
+    <string name="coin">Coin</string>
+    <string name="random">Random</string>
+    <string name="magic_ball">Magic ball</string>
+    <string name="_0">0</string>
+    <string name="random_number_generator">Random Number Generator</string>
+    <string name="min">Min</string>
+    <string name="max">Max</string>
+    <string name="_100">100</string>
+    <string name="generate">Generate</string>
+    <string name="magic_ball_action_text">Predict!</string>
+    <string name="randomNumberGenButton">Generate</string>
+    <string name="genRandomNumber">Random Number Generation</string>
+    <string name="filpCoinButton">Flip</string>
+    <string name="Yes">Yes</string>
+    <string name="No">No</string>
+    <string name="invalid_range">Invalid number</string>
+    <string-array name="predictions">
+        <item>Undoubtedly</item>
+        <item>It is certain</item>
+        <item>Without a doubt</item>
+        <item>Yes, definitely</item>
+        <item>You can be sure of it</item>
+        <item>In my opinion, yes</item>
+        <item>Most likely</item>
+        <item>Good prospects</item>
+        <item>Yes</item>
+        <item>The signs point to yes</item>
+        <item>Answer unclear, try again</item>
+        <item>Ask later</item>
+        <item>Better not to say now</item>
+        <item>Cannot predict now</item>
+        <item>Focus and ask again</item>
+        <item>Don\'t count on it</item>
+        <item>My answer is no</item>
+        <item>My sources say no</item>
+        <item>Outlook not so good</item>
+        <item>Very doubtful</item>
+    </string-array>
+</resources>

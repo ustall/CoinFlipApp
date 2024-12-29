@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">CoinFlip</string>
+    <string name="flip_coin">Flip Coin</string>
+    <string name="resultTextDefalut">Нажмите кнопку</string>
+    <string name="coin">Монтека</string>
+    <string name="random">Число</string>
+    <string name="magic_ball">Магический шар</string>
+    <string name="_0">0</string>
+    <string name="random_number_generator">Random Number Generator</string>
+    <string name="min">Min</string>
+    <string name="max">Max</string>
+    <string name="_100">100</string>
+    <string name="generate">Generate</string>
+    <string name="magic_ball_action_text">Предскажи!</string>
+    <string name="randomNumberGenButton">Сгенерировать</string>
+    <string name="genRandomNumber">Генерация случайного числа</string>
+    <string name="filpCoinButton">Подбросить</string>
+    <string name="Yes">Да</string>
+    <string name="No">Нет</string>
+    <string name="invalid_range">Не возможное число</string>
+    <string-array name="predictions">
+        <item>Бесспорно</item>
+        <item>Это точно так</item>
+        <item>Без сомнения</item>
+        <item>Да, определённо</item>
+        <item>Можешь быть в этом уверен</item>
+        <item>На мой взгляд, да</item>
+        <item>Скорее всего</item>
+        <item>Хорошие перспективы</item>
+        <item>Да</item>
+        <item>Знаки указывают на да</item>
+        <item>Ответ неясен, попробуй снова</item>
+        <item>Спроси позже</item>
+        <item>Лучше не говорить сейчас</item>
+        <item>Сейчас нельзя предсказать</item>
+        <item>Сосредоточься и спроси снова</item>
+        <item>Не рассчитывай на это</item>
+        <item>Мой ответ — нет</item>
+        <item>Мои источники говорят нет</item>
+        <item>Перспективы не очень хорошие</item>
+        <item>Очень сомнительно</item>
+    </string-array>
+</resources>
